@@ -99,10 +99,10 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven-web-application</name>
+	      <name>freestyle_project</name>
 	      <url>http://15.206.151.102:8081/repository/maven-release/</url>
 	    </repository>
 	    <snapshotRepository>
@@ -110,7 +110,7 @@
 	      <name>maven-web-application </name>
 	      <url>http://15.206.151.102:8081/repository/java-web-app-docker-snapshot/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement>
 	
 	<build>
 		<plugins>
