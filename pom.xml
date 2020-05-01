@@ -101,12 +101,12 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
+	      <id>venkat</id>
 	      <name>freestyle_project</name>
 	      <url>http://15.206.151.102:8081/repository/maven-release/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>venkat</id>
 	      <name>maven-web-application </name>
 	      <url>http://15.206.151.102:8081/repository/java-web-app-docker-snapshot/</url>
 	    </snapshotRepository>
