@@ -108,7 +108,7 @@
 	    <snapshotRepository>
 	      <id>venkat</id>
 	      <name>java-web-app-docker</name>
-	      <url>http://15.206.151.102:8081/repository/java-web-app-docker-snapshot/</url>
+	      <url>http://15.207.106.116:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
